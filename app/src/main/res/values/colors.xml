@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="wtm_title">#31d5a8</color>
+    <color name="c_recharge_green_bg">#20B2AA</color>
+    <color name="c_recharge_green_bg_press">#008080</color>
+
+    <color name="shape_balance">#ff5c7d</color>
+    <color name="white_color">#ffffffff</color>
+    <!--白色 -->
+    <color name="red_color">#ff0033</color>
+    <!--红色 -->
+    <color name="redorange_color">#f5670b</color>
+    <!--橙红色 -->
+    <color name="gray_color">#EDEDED</color>
+    <!--灰色 -->
+    <color name="green_color">#666600</color>
+    <!--绿色-->
+    <color name="orange_color">#FF6600</color>
+    <!--橙色-->
+    <color name="dark_color">#6e1414</color>
+    <!--暗红 -->
+    <color name="pink_color">#c04849</color>
+    <!--淡红 -->
+    <color name="dark_green_color">#7FFFD4</color>
+    <!--浅绿-->
+
+    <color name="search_color">#eaebed</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray_color">#9b9b9b</color>
+    <!--暗灰色 -->
+    <color name="bg_color">#e1e4e9</color>
+    <!--暗灰色 -->
+    <color name="home_tv_color">#838383</color>
+    <color name="c_common">#031c33</color>
+    <color name="wtm_common">#666666</color>
+    <color name="c_window_black_bg">#303030</color>
+    <color name="c_shoppingcar_textcolor">#595959</color>
+    <color name="c_car_item_bg">#f5f5f5</color>
+    <color name="c_black_translucent">#50000000</color>
+    <color name="c_gray_color">#ADADAD</color>
+</resources>

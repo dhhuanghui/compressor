@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="headerView_custom_back">
+        <attr name="isDefalutBack" format="boolean" />
+    </declare-styleable>
+</resources>
